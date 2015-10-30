@@ -1,0 +1,9 @@
+1. HelloVM - print details of a virtual machine and its host in vcenter.
+	provide in arguments the ipaddress of vcenter, login, password and virtual macine name.
+	Create snapshot, do migration to other host, clone virtual machine and print all the recent history.
+	sample = 10.0.0.1 login password vmName.
+	
+2. HelloVMFolder = print details of all virtual machines in a given folder.
+	provide in arguments the ipaddress of vcenter, login, password and folder name.
+	Create snapshot, do migration to other host, clone virtual machine and print all the recent history.
+	sample = 10.0.0.1 login password FolderName.
